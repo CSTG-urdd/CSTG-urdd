@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CSTG-urdd
-- 👀 I’m interested in Python and Java programming;
+- 👀 I’m interested in Python,Java programming and TDX;
 - 🌱 I’m currently learning Python and Java;
 - 📫 How to reach me :wenbin_1206@126.com
 
